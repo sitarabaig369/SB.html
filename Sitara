@@ -602,7 +602,7 @@
       { name: "AI Document Summarizer", desc: "Summarize any document with AI.", icon: "📝", category: "PDF Tools", link: "/ai-document-summarizer" },
 
       // ---------- IMAGE TOOLS (10) ----------
-      { name: "Image Compressor", desc: "Compress JPG, PNG, WebP without quality loss.", icon: "🗜️", category: "Image Tools", badge: "hot", link: "/image-compressor" },
+      { name: "Image Compressor", desc: "Compress JPG, PNG, WebP without quality loss.", icon: "🗜️", category: "Image Tools", badge: "hot", link: "\Sitara\img\comprs\.html" },
       { name: "Image Enhancer", desc: "Enhance image quality with AI upscaling.", icon: "✨", category: "Image Tools", badge: "new", link: "/image-enhancer" },
       { name: "Image Converter", desc: "Convert between JPG, PNG, WebP, GIF & more.", icon: "🔄", category: "Image Tools", link: "/image-converter" },
       { name: "Image Resizer", desc: "Resize images to any dimension instantly.", icon: "📐", category: "Image Tools", link: "/image-resizer" },
